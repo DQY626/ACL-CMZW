@@ -1,3 +1,3 @@
-# ACL-CMZW
+# An adversarial contrastive learning based cross-modality zero-watermarking scheme for DIBR 3D video copyright protection
 
 Coming soon......
